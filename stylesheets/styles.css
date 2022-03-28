@@ -1,0 +1,31 @@
+body {
+    background-color: black;
+    border: 1px solid black;
+    color: white;
+    height: 750px;
+    width: 850px;
+    margin: 1em auto;
+}
+h1 {
+    color: yellow;
+}
+div {
+    background-color: silver;
+    border: 1px solid blue;
+    color: black;
+    float: left;
+    height: 8%;
+    margin: 1%;
+    padding-top: 5px;
+    width: 8%;
+}
+input[type="button"] {  
+  height: 30px;
+  width: 120px;
+  font-size: 18px;
+  padding-top: 3px;
+}
+
+aside {
+  float: left;
+}
